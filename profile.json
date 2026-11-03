@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "CaBaGG4811",
-  "seed": "#FF5CA8",
+  "seed": "#5C7CFF",
   "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
@@ -10,14 +10,21 @@
     "hero",
     "socials",
     "about",
+    "wave",
     "stack",
     "projects",
     "stats",
     "streak",
-    "wave",
     "buttons"
   ],
-  "hidden": [],
+  "hidden": [
+    "stack",
+    "stats",
+    "streak",
+    "buttons",
+    "wave",
+    "socials"
+  ],
   "hero": {
     "greeting": "Привет, я",
     "name": "",
@@ -27,11 +34,19 @@
     "chips": [
       {
         "icon": "location_on",
-        "label": "Земля"
+        "label": "Беларусь"
       },
       {
         "icon": "code",
-        "label": "TypeScript · Python"
+        "label": "HTML "
+      },
+      {
+        "icon": "code",
+        "label": "JavaScript"
+      },
+      {
+        "icon": "code",
+        "label": "CSS"
       }
     ]
   },
@@ -40,15 +55,15 @@
     "items": [
       {
         "icon": "person",
-        "label": "Разработчик и дизайнер"
+        "label": "Создаю сайты для учебы"
       },
       {
         "icon": "code",
-        "label": "В основном фронтенд"
+        "label": "99% всего кода пишет Ai"
       },
       {
         "icon": "palette",
-        "label": "Люблю Material Design"
+        "label": "Material Design 3 - любимый стиль"
       }
     ]
   },
@@ -94,8 +109,23 @@
   "projects": {
     "source": "pinned",
     "repos": [],
-    "overrides": {},
-    "empty": "Описания пока нет.",
+    "overrides": {
+      "knowledge-graph": {
+        "icon": "commit",
+        "shape": "gem",
+        "text": "Генерация дерева знаний по теме: от базовых понятий к продвинутым разделам."
+      },
+      "wikinova": {
+        "shape": "cookie12",
+        "icon": "public",
+        "text": "Сосвременная замена Wikipedia"
+      },
+      "repeater-website": {
+        "shape": "clover",
+        "text": ""
+      }
+    },
+    "empty": "",
     "fork": "Fork"
   },
   "stats": {
@@ -131,7 +161,7 @@
       }
     ],
     "variant": "chip",
-    "fill": "tonal",
+    "fill": "outlined",
     "card": true
   },
   "buttons": {
