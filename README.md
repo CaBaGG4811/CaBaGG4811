@@ -8,9 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Стек"></picture>
 
-<a href="https://github.com/CaBaGG4811/knowledge-graph"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-knowledge-graph-dark.svg"><img src="assets/project-knowledge-graph-light.svg" width="49%" alt="knowledge-graph"></picture></a>&nbsp;<a href="https://github.com/CaBaGG4811/wikinova"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wikinova-dark.svg"><img src="assets/project-wikinova-light.svg" width="49%" alt="wikinova"></picture></a>
-
-<a href="https://github.com/CaBaGG4811/repeater-website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-repeater-website-dark.svg"><img src="assets/project-repeater-website-light.svg" width="49%" alt="repeater-website"></picture></a>
+<a href="https://github.com/CaBaGG4811/knowledge-graph"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-knowledge-graph-dark.svg"><img src="assets/project-knowledge-graph-light.svg" width="49%" alt="knowledge-graph"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 

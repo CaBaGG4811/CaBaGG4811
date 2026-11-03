@@ -1,0 +1,175 @@
+{
+ "key": "fc32234e",
+ "stars": 1,
+ "contributions": 54,
+ "repos": 4,
+ "followers": 1,
+ "languages": [
+  [
+   "TypeScript",
+   665724
+  ],
+  [
+   "JavaScript",
+   383916
+  ],
+  [
+   "CSS",
+   89953
+  ],
+  [
+   "HTML",
+   26541
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 8,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 3,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 3
+ },
+ "pins": [
+  {
+   "name": "knowledge-graph",
+   "url": "https://github.com/CaBaGG4811/knowledge-graph",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "knowledge-graph",
+   "url": "https://github.com/CaBaGG4811/knowledge-graph",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "CaBaGG4811",
+   "url": "https://github.com/CaBaGG4811/CaBaGG4811",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "wikinova",
+   "url": "https://github.com/CaBaGG4811/wikinova",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "repeater-website",
+   "url": "https://github.com/CaBaGG4811/repeater-website",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  }
+ ]
+}
